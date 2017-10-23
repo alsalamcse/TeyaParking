@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign Up</string>
+</resources>
